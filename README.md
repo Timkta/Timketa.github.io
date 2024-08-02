@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timketa Adula Duguma - CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Timketa Adula Duguma</h1>
+            <p>Civil and Hydraulic Engineer</p>
+            <p>Email: <a href="mailto:timketa.adula@ambou.edu.et">timketa.adula@ambou.edu.et</a> | Phone: +251910182498</p>
+            <p><a href="https://linkedin.com/in/timketa-adula-duguma-02608b295">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7544-7865">ORCID</a></p>
+        </header>
+        <section>
+            <h2>Profile</h2>
+            <p>Dynamic and dedicated Civil and Hydraulic Engineer with over 5 years of experience in project management and site supervision, and over 12 years in academia. Skilled in engineering software with strong communication and leadership abilities.</p>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <h3>Resident Engineer</h3>
+            <p>Engineering Corporation of Oromia (ECO), Addis Ababa | May 2023 - Present</p>
+            <ul>
+                <li>Managed large-scale water supply projects ensuring compliance with project specifications, quality standards, and timelines.</li>
+                <li>Administered construction contracts, resolving contract claims efficiently.</li>
+            </ul>
+            <h3>Lecturer/Instructor</h3>
+            <p>Ambo University | Nov 2016 - Present</p>
+            <ul>
+                <li>Taught civil and hydraulic engineering courses, provided academic support, and engaged in research activities.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <h3>MSc in Civil Engineering (Hydraulic Engineering)</h3>
+            <p>Ad
